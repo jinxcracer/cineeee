@@ -1,0 +1,12 @@
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\bin\Debug\Cinematrix.exe.config
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\bin\Debug\Cinematrix.exe
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\bin\Debug\Cinematrix.pdb
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.csproj.AssemblyReference.cache
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.Form1.resources
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.Properties.Resources.resources
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.csproj.GenerateResource.cache
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.csproj.CoreCompileInputs.cache
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.exe
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.pdb
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.frmMovieCategory.resources
+C:\Users\jojin\source\repos\Cinematrix\Cinematrix\obj\Debug\Cinematrix.Movies.resources
